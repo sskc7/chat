@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ChatClient4/src"/>
+	<classpathentry kind="src" path="ChatServer4/src"/>
+	<classpathentry kind="lib" path="ChatClient4/dist/ChatClient4.jar"/>
+	<classpathentry kind="lib" path="ChatClient4/dist/run10461113/ChatClient4.jar"/>
+	<classpathentry kind="lib" path="ChatClient4/dist/run1169330740/ChatClient4.jar"/>
+	<classpathentry kind="lib" path="ChatClient4/dist/run1373827572/ChatClient4.jar"/>
+	<classpathentry kind="lib" path="ChatClient4/dist/run1409069798/ChatClient4.jar"/>
+	<classpathentry kind="lib" path="ChatClient4/dist/run1564509443/ChatClient4.jar"/>
+	<classpathentry kind="lib" path="ChatClient4/dist/run1842101657/ChatClient4.jar"/>
+	<classpathentry kind="lib" path="ChatClient4/dist/run195212490/ChatClient4.jar"/>
+	<classpathentry kind="lib" path="ChatClient4/dist/run2077900598/ChatClient4.jar"/>
+	<classpathentry kind="lib" path="ChatClient4/dist/run2097816691/ChatClient4.jar"/>
+	<classpathentry kind="lib" path="ChatClient4/dist/run388387892/ChatClient4.jar"/>
+	<classpathentry kind="lib" path="ChatClient4/dist/run493972223/ChatClient4.jar"/>
+	<classpathentry kind="lib" path="ChatClient4/dist/run926921943/ChatClient4.jar"/>
+	<classpathentry kind="lib" path="ChatServer4/dist/ChatServer4.jar"/>
+	<classpathentry kind="lib" path="ChatServer4/dist/run1031873793/ChatServer4.jar"/>
+	<classpathentry kind="lib" path="ChatServer4/dist/run1573051445/ChatServer4.jar"/>
+	<classpathentry kind="lib" path="ChatServer4/dist/run170444911/ChatServer4.jar"/>
+	<classpathentry kind="lib" path="ChatServer4/dist/run1799558793/ChatServer4.jar"/>
+	<classpathentry kind="lib" path="ChatServer4/dist/run1842430686/ChatServer4.jar"/>
+	<classpathentry kind="lib" path="ChatServer4/dist/run293007919/ChatServer4.jar"/>
+	<classpathentry kind="lib" path="ChatServer4/dist/run645643492/ChatServer4.jar"/>
+	<classpathentry kind="lib" path="ChatServer4/dist/run860636650/ChatServer4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="ChatClient4/build/classes"/>
+</classpath>
